@@ -45,6 +45,7 @@ BoardService
 <br>3.Repository<br>
 Board : 게시글 <br>
 <br>BoardRepository : 게시글 조회, 저장 <br>
+ <br>4.Dto<br>
 <br>BoardRequestDto : 게시글 입력하기 <br>
 <br>BoardCheckRequestDto : 비밀번호 확인하기 <br>
 
