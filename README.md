@@ -48,5 +48,5 @@ Board : 게시글 <br>
 <br>BoardRequestDto : 게시글 입력하기 <br>
 <br>BoardCheckRequestDto : 비밀번호 확인하기 <br>
 
- 다이어그램<br><br>
+ ERD 다이어그램<br><br>
 ![image](https://user-images.githubusercontent.com/57098232/194226107-f91b2d76-8c53-4883-b0a0-aaf3dda19940.png)
